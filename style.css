@@ -19,6 +19,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     background-color: rgb(220, 220, 220);
+    line-height: normal;
   }
 
 h1 {
